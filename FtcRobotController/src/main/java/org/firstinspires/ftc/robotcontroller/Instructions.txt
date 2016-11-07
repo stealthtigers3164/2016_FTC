@@ -1,0 +1,3 @@
+1.  For your team go into the internal folder that is in the same folder as this file is.
+2. Edit FtcOpModeRegister.java and between lines 74-76 you should remove the // next to the code that has something to do with the name of you team, or for Jesuit it is TankDrive.  Then add // next to all of the other lines BETWEEN 74-76 that are not already uncommented and that are not yours!
+3. WHEN EDITING YOUR CODE, make sure that you edit the right file or it is going to seem like the code is not working, you may even get an error on the phone!
